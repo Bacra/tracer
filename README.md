@@ -1,4 +1,4 @@
-#tracer for node.js  [![Build Status](https://secure.travis-ci.org/baryon/tracer.png)](http://travis-ci.org/baryon/tracer)
+#tracer for node.js  [![Build Status](https://travis-ci.org/Bacra/tracer.svg?branch=bacra_master)](https://travis-ci.org/Bacra/tracer)
 
 A powerful and customizable logging library for node.js.
 
